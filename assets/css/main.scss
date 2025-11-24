@@ -81,11 +81,42 @@ html[data-theme="dark"] {
 
     .paper-box-image img {
       box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
+      background-color: #fff;
+      padding: 5px;
+      border-radius: 4px;
     }
   }
 
   .badge {
     background-color: #0055cc;
+  }
+
+  /* Images keep white background */
+  img {
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 4px;
+  }
+
+  /* Icons and SVGs keep white background */
+  i[class*="fa"],
+  span[class*="fa"],
+  .fa {
+    background-color: #fff !important;
+    color: #000 !important;
+    padding: 5px;
+    border-radius: 4px;
+  }
+
+  /* Social icons white background */
+  .author__urls a i,
+  .author__urls_sm a i,
+  .social-icons i {
+    background-color: #fff !important;
+    color: #000 !important;
+    padding: 8px;
+    border-radius: 4px;
+    margin-right: 5px;
   }
 
   table {
