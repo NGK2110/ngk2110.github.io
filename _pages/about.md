@@ -52,7 +52,7 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
 
 **Naveen George**, Karthik Nandan Dasaraju, Rutheesh Reddy Chittepu, Konda Reddy Mopuri
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) | [Code](https://github.com/NGK2110/TIU) | [Project](https://github.com/NGK2110/TIU)
+[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) | [Code](https://github.com/NGK2110/TIU)
 </div>
 </div>
 
@@ -70,14 +70,25 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
     <img src='images/Sony_AI.png' alt="Sony AI" style="height: 60px;">
   </div>
   <div>
-    <h3 style="margin: 0; margin-bottom: 5px;"><a href="https://ai.sony/">SONY Research</a></h3>
-    <p style="margin: 0; font-size: 14px;">Research Scientist Intern at SONY AI Lab, MFM/Cinematic Technology Division (Sep. 2025 – Present)</p>
-    <p style="margin: 5px 0 0 0; font-size: 13px;">Advisor: <a href="#">Takashi Shibuya</a> and <a href="#">Masato Ishii</a></p>
+    <h3 style="margin: 0; margin-bottom: 5px;"><a href="https://ai.sony/">SONY AI</a></h3>
+    <p style="margin: 0; font-size: 14px;">Research Scientist Intern at SONY AI, MFM/Deep Generative Modeling Team (July. 2025 – Present)</p>
+    <p style="margin: 5px 0 0 0; font-size: 13px;">Advisor: <a href="https://ai.sony/people/Naoki-Murata/">Naoki Murata</a> and <a href="https://ai.sony/people/Yuhta-Takida/">Yuhta Takida</a></p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="margin-right: 20px; min-width: 100px;">
+    <img src='images/IITH.png' alt="IIT Hyd" style="height: 60px;">
+  </div>
+  <div>
+    <h3 style="margin: 0; margin-bottom: 5px;"><a href="https://ai.iith.ac.in/index.html">Indian Institute of Technology Hyderabad</a></h3>
+    <p style="margin: 0; font-size: 14px;">Master's (RA) student at IITH (Aug. 2023 – Present)</p>
+    <p style="margin: 5px 0 0 0; font-size: 13px;">Advisor: <a href="https://krmopuri.github.io">Dr. Konda Reddy Mopuri</a></p>
   </div>
 </div>
 
 # 📋 Academic Service
-- Conference Reviewer: CVPR'26, ICML'25 ([MUGen](https://mugenworkshop.github.io))
+- Conference Reviewer: CVPR'26, ICML'25 ([MUGen](https://mugenworkshop.github.io)), ICVGIP'25
 - Journal Reviewer: TIP
 
 # 👨🏻‍🏫 Teaching Experience
