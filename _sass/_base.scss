@@ -5,6 +5,13 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  background-color: $background-color;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+html[data-theme="dark"] {
+  background-color: $dark-background-color;
+  color: $dark-text-color;
 }
 
 body {
@@ -19,6 +26,11 @@ body {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
+}
+
+html[data-theme="dark"] body {
+  color: $dark-text-color;
+  background-color: $dark-background-color;
 }
 
 h1, h2, h3, h4, h5, h6 {

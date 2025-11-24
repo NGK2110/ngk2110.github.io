@@ -9,15 +9,34 @@
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
   
-  // Initialize dark mode
+  // Dark mode setup
   (function() {
-    const theme = localStorage.getItem('theme') || 'dark';
-    document.documentElement.setAttribute('data-theme', theme);
+    const darkModeToggle = localStorage.getItem('darkMode');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (darkModeToggle === 'true' || (darkModeToggle === null && prefersDark)) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
   })();
 </script>
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="assets/css/main.css">
+
+<!-- Dark mode toggle script -->
+<script>
+  function toggleDarkMode() {
+    const html = document.documentElement;
+    const isDark = html.getAttribute('data-theme') === 'dark';
+    if (isDark) {
+      html.removeAttribute('data-theme');
+      localStorage.setItem('darkMode', 'false');
+    } else {
+      html.setAttribute('data-theme', 'dark');
+      localStorage.setItem('darkMode', 'true');
+    }
+  }
+  window.toggleDarkMode = toggleDarkMode;
+</script>
 
 <meta http-equiv="cleartype" content="on">
 <head>

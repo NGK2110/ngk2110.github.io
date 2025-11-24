@@ -1,26 +1,4 @@
 <script src="assets/js/main.min.js"></script>
 
-<script>
-  // Theme toggle functionality
-  const themeToggle = document.getElementById('theme-toggle');
-  const htmlElement = document.documentElement;
-  
-  themeToggle.addEventListener('click', function() {
-    const currentTheme = htmlElement.getAttribute('data-theme');
-    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-    
-    htmlElement.setAttribute('data-theme', newTheme);
-    localStorage.setItem('theme', newTheme);
-    
-    // Update icon
-    themeToggle.querySelector('.theme-toggle__icon').textContent = newTheme === 'dark' ? '🌙' : '☀️';
-  });
-  
-  // Set initial icon based on theme
-  const initialTheme = htmlElement.getAttribute('data-theme');
-  themeToggle.querySelector('.theme-toggle__icon').textContent = initialTheme === 'dark' ? '🌙' : '☀️';
-</script>
-
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
-
