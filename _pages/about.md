@@ -24,10 +24,10 @@ My research interests are in Deep Generative Models and Computer Vision, with a 
 I like to play squash and football in my free time. Also a big fan of FC Barcelona💙❤️.
 
 # 🔥 News
-- *2025.12*: **[CVPR work](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html)** selected for Vision India, ICVGIP 2025.
+- *2025.12*: [CVPR work](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) selected for Vision India, ICVGIP 2025.
 - *2025.07*: I'll start a Research Scientist Internship at [Sony AI](https://ai.sony/), Tokyo.
 - *2025.02*: Our work titled **[Illusion Of Unlearning](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html)** paper accepted to **CVPR 2025, Nashville**.
-- *2024.06*: Awarded **Reliance Foundation Postgraduate Scholarship** <span style="color: red;">(Top 100 students)</span>
+- *2024.06*: Awarded **Reliance Foundation Postgraduate Scholarship** <span style="color: red;">(Top 100 students nationwide)</span>
 
 # 📝 Pre-print
 
@@ -58,13 +58,23 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
 
 
 # 🎖 Honors and Awards
-- **[CVPR work](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html)** selected for Vision India, ICVGIP 2025.
+- [CVPR work](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) selected for Vision India, ICVGIP 2025.
 - CVPR 2025 Travel Grant Award
 - Reliance Foundation Postgraduate Scholarship.
 - Secured Top 500 in GATE DA.
 
-# 💻 Research Internships
-- *2025.07 - Present*, [Sony AI](https://ai.sony/).
+# 💻 Research Experience
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="margin-right: 20px; min-width: 100px;">
+    <img src='images/Sony_AI.png' alt="Sony AI" style="height: 60px;">
+  </div>
+  <div>
+    <h3 style="margin: 0; margin-bottom: 5px;"><a href="https://ai.sony/">SONY Research</a></h3>
+    <p style="margin: 0; font-size: 14px;">Research Scientist Intern at SONY AI Lab, MFM/Cinematic Technology Division (Sep. 2025 – Present)</p>
+    <p style="margin: 5px 0 0 0; font-size: 13px;">Advisor: <a href="#">Takashi Shibuya</a> and <a href="#">Masato Ishii</a></p>
+  </div>
+</div>
 
 # 📋 Academic Service
 - Conference Reviewer: CVPR'26, ICML'25 ([MUGen](https://mugenworkshop.github.io))
