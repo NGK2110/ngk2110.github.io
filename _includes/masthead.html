@@ -9,7 +9,7 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
           <li class="masthead__menu-item" style="margin-left: auto;">
-            <button id="dark-mode-toggle" onclick="toggleDarkMode()" title="Toggle Dark Mode" style="background: none; border: none; cursor: pointer; font-size: 1.5em; padding: 0.5em; color: inherit; transition: color 0.3s ease;">
+            <button id="dark-mode-toggle" onclick="toggleDarkMode()" title="Toggle Dark Mode" style="background: none; border: none; cursor: pointer; font-size: 1.5em; padding: 0.5em 0.8em; color: #333; transition: color 0.3s ease; display: inline-block;">
               🌙
             </button>
           </li>
@@ -19,3 +19,13 @@
     </div>
   </div>
 </div>
+
+<style>
+  html[data-theme="dark"] #dark-mode-toggle {
+    color: #e0e0e0 !important;
+  }
+  
+  #dark-mode-toggle:hover {
+    opacity: 0.8;
+  }
+</style>
