@@ -26,7 +26,7 @@ I like to play squash and football in my free time. Also a big fan of FC Barcelo
 # 🔥 News
 - *2025.12*: [CVPR work](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) selected for Vision India, ICVGIP 2025.
 - *2025.07*: I'll start a Research Scientist Internship at [Sony AI](https://ai.sony/), Tokyo.
-- *2025.02*: Our work titled **[Illusion Of Unlearning](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html)** paper accepted to **CVPR 2025, Nashville**.
+- *2025.02*: Our work titled [Illusion Of Unlearning](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) paper accepted to **CVPR 2025, Nashville**.
 - *2024.06*: Awarded **Reliance Foundation Postgraduate Scholarship** <span style="color: red;">(Top 100 students nationwide)</span>
 
 # 📝 Pre-print
