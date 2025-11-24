@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Naveen George"
-description              : 
+description              : "Research Scientist Intern - Sony AI | M.Tech (RA) - IIT Hyderabad"
 repository               : "ngk2110.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Naveen George"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Research Scientist Intern - Sony AI | M.Tech (RA) - IIT Hyderabad"
+  bio              :
   location         : "Hyderabad, India"
   employer         :
   pubmed           : 

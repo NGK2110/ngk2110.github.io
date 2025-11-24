@@ -29,7 +29,7 @@ I like to play squash and football in my free time. Also a big fan of FC Barcelo
 - *2025.02*: Our work titled [Illusion Of Unlearning](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) paper accepted to **CVPR 2025, Nashville**.
 - *2024.06*: Awarded **Reliance Foundation Postgraduate Scholarship** <span style="color: red;">(Top 100 students nationwide)</span>
 
-# 📝 Pre-print
+<!-- # 📝 Pre-print -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/real_mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,10 +58,10 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
 
 
 # 🎖 Honors and Awards
-- [CVPR work](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) selected for Vision India, ICVGIP 2025.
+- [CVPR work](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) selected for Vision India, ICVGIP 2025
 - CVPR 2025 Travel Grant Award
-- Reliance Foundation Postgraduate Scholarship.
-- Secured Top 500 in GATE DA.
+- Reliance Foundation Postgraduate Scholarship
+- Secured Top 500 in GATE DA
 
 # 💻 Research Experience
 
@@ -78,7 +78,7 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="margin-right: 30px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; width: 100px; height: 70px;">
-    <img src='images/IITH.png' alt="IIT Hyd" style="max-height: 65px; max-width: 100px; object-fit: contain;">
+    <img src='images/IITH.png' alt="IIT Hyd" style="max-height: 50px; max-width: 100px; object-fit: contain;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin: 0; margin-bottom: 5px; color: #0066cc;"><a href="https://ai.iith.ac.in/index.html" style="text-decoration: none; color: #0066cc;">Indian Institute of Technology Hyderabad</a></h3>
