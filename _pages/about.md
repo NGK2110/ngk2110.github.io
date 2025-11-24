@@ -78,7 +78,7 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="margin-right: 30px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; width: 100px; height: 70px;">
-    <img src='images/IITH_logo.png' alt="IIT Hyd" style="max-height: 65px; max-width: 100px; object-fit: contain;">
+    <img src='images/IITH.png' alt="IIT Hyd" style="max-height: 65px; max-width: 100px; object-fit: contain;">
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin: 0; margin-bottom: 5px; color: #0066cc;"><a href="https://ai.iith.ac.in/index.html" style="text-decoration: none; color: #0066cc;">Indian Institute of Technology Hyderabad</a></h3>
