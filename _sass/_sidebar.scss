@@ -49,6 +49,11 @@
   }
 }
 
+html[data-theme="dark"] .sidebar {
+  background-color: transparent;
+}
+
+
 .sidebar__right {
   margin-bottom: 1em;
 
@@ -262,15 +267,15 @@ html[data-theme="dark"] .author__avatar img {
 }
 
 html[data-theme="dark"] .author__urls {
-  background: #1a1a1a;
-  border-color: #333;
+  background: transparent;
+  border-color: transparent;
 
   &:before {
-    border-color: #333 transparent;
+    border-color: transparent transparent;
   }
 
   &:after {
-    border-color: #1a1a1a transparent;
+    border-color: transparent transparent;
   }
 
   a {
