@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Naveen George"
-description              : "Research Scientist Intern - Sony AI | M.Tech (RA) - IIT Hyderabad"
+description              : 
 repository               : "ngk2110.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Naveen George"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "IIT Hyderabad"
+  bio              : "Research Scientist Intern - Sony AI | M.Tech (RA) - IIT Hyderabad"
   location         : "Hyderabad, India"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ngk12" # e.g., "linkedin username"
+  linkedin         : "ngk2110" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "ngk2110"
   vine             :
   weibo            :
   xing             :
