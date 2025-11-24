@@ -17,14 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a final year Master's student at [Department of AI](https://ai.iith.ac.in/index.html), [Indian Institute of Technology Hyderabad](https://www.iith.ac.in), where I have the privilege of being supervised by [Dr. Konda Reddy Mopuri](https://krmopuri.github.io). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a Research Scientist intern at [Sony AI, Tokyo] with [Naoki Murata](https://ai.sony/people/Naoki-Murata/) and [Yuhta Takida](https://ai.sony/people/Yuhta-Takida/). 
 
+My research interests are on Deep Generative Models and Computer Vision, currently focusing on Machine Unlearning in Diffusion Models.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: **CVPR work** selected for Vision India, ICVGIP 2025.
+- *2025.07*: I'll start a Research Scientist Internship at [Sony AI](https://ai.sony/), Tokyo.
+- *2025.02*: Our work titled [Illusion Of Unlearning](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) paper accepted to **CVPR 2025**.
+- *2024.06*: Awarded **Reliance Foundation Postgraduate Scholarship** <span style="color: red;">(Top 100 students)</span>
+
 
 # 📝 Publications 
 
