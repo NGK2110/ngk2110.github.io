@@ -10,9 +10,6 @@
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden">
-          {% for link in site.data.navigation.main %}
-            <li><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
           <li><a href="#" onclick="toggleDarkMode(); return false;" style="padding: 10px 20px !important;">🌙 Toggle Dark Mode</a></li>
         </ul>
       </nav>
