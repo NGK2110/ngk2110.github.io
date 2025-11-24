@@ -8,24 +8,91 @@
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
-          <li class="masthead__menu-item" style="margin-left: auto;">
-            <button id="dark-mode-toggle" onclick="toggleDarkMode()" title="Toggle Dark Mode" style="background: none; border: none; cursor: pointer; font-size: 1.5em; padding: 0.5em 0.8em; color: #333; transition: color 0.3s ease; display: inline-block;">
-              🌙
-            </button>
-          </li>
         </ul>
-        <ul class="hidden-links hidden"></ul>
+        <ul class="hidden-links hidden">
+          {% for link in site.data.navigation.main %}
+            <li><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
+          <li><button id="dark-mode-toggle-mobile" onclick="toggleDarkMode()" title="Toggle Dark Mode" style="background: none; border: none; cursor: pointer; font-size: 1.2em; padding: 10px 20px; color: inherit; width: 100%; text-align: left; display: block;">
+            🌙 Toggle Dark Mode
+          </button></li>
+        </ul>
       </nav>
     </div>
   </div>
 </div>
 
 <style>
-  html[data-theme="dark"] #dark-mode-toggle {
-    color: #e0e0e0 !important;
+  /* Desktop moon icon */
+  .masthead__menu::after {
+    content: "🌙";
+    margin-left: auto;
+    padding: 0.5em 0.8em;
+    font-size: 1.5em;
+    cursor: pointer;
+    color: #333;
+    transition: color 0.3s ease;
+    display: table-cell;
+    vertical-align: middle;
+    white-space: nowrap;
   }
-  
-  #dark-mode-toggle:hover {
+
+  html[data-theme="dark"] .masthead__menu::after {
+    color: #e0e0e0;
+  }
+
+  .masthead__menu::after:hover {
     opacity: 0.8;
   }
+
+  @media (hover: hover) {
+    .masthead__menu::after {
+      cursor: pointer;
+    }
+  }
+
+  /* Mobile dark mode button */
+  #dark-mode-toggle-mobile {
+    width: 100%;
+    text-align: left;
+    font-size: 1em;
+    padding: 10px 20px !important;
+    color: inherit;
+  }
+
+  html[data-theme="dark"] .hidden-links {
+    background-color: #1a1a1a;
+    border-color: #333;
+  }
+
+  html[data-theme="dark"] .hidden-links:before {
+    border-color: #333 transparent;
+  }
+
+  html[data-theme="dark"] .hidden-links:after {
+    border-color: #1a1a1a transparent;
+  }
+
+  html[data-theme="dark"] .hidden-links a,
+  html[data-theme="dark"] .hidden-links button {
+    color: #6ba3d4;
+  }
+
+  html[data-theme="dark"] .hidden-links a:hover,
+  html[data-theme="dark"] .hidden-links button:hover {
+    background-color: #262626;
+    color: #a5d3ff;
+  }
+
+  html[data-theme="dark"] .hidden-links li {
+    border-bottom-color: #333;
+  }
 </style>
+
+<script>
+  document.querySelector('.masthead__menu::after') && document.querySelector('.masthead__menu').addEventListener('click', function(e) {
+    if (e.target.matches('.masthead__menu::after') || e.pageX > document.querySelector('.masthead__menu').offsetWidth - 50) {
+      toggleDarkMode();
+    }
+  });
+</script>
