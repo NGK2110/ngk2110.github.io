@@ -42,6 +42,9 @@
 
 /* Dark Mode Styles */
 html[data-theme="dark"] {
+  background-color: $dark-background-color;
+  color: $dark-text-color;
+
   a {
     color: #6ba3d4;
     
@@ -113,6 +116,122 @@ html[data-theme="dark"] {
 
     strong {
       color: $dark-text-color;
+    }
+  }
+
+  /* Masthead dark mode */
+  .masthead {
+    background-color: $dark-body-color;
+    border-bottom-color: #333;
+
+    a {
+      color: #6ba3d4;
+      text-decoration: none;
+
+      &:hover {
+        color: #a5d3ff;
+      }
+    }
+  }
+
+  /* Sidebar dark mode */
+  .sidebar {
+    color: $dark-text-color;
+
+    .author__urls {
+      background: $dark-body-color;
+      border-color: #333;
+
+      &:before {
+        border-color: #333 transparent;
+      }
+
+      &:after {
+        border-color: $dark-body-color transparent;
+      }
+
+      a {
+        color: #6ba3d4;
+
+        &:hover {
+          color: #a5d3ff;
+        }
+      }
+    }
+
+    .author__avatar img {
+      border-color: #333;
+    }
+  }
+
+  /* Navigation dark mode */
+  .greedy-nav {
+    background: $dark-body-color;
+    border-bottom-color: #333;
+
+    a {
+      color: #6ba3d4;
+
+      &:hover {
+        color: #a5d3ff;
+      }
+    }
+
+    button {
+      color: $dark-text-color;
+
+      &:hover {
+        color: #a5d3ff;
+      }
+    }
+  }
+
+  /* Footer dark mode */
+  .page__footer {
+    background-color: $dark-body-color;
+    color: $dark-text-color;
+    border-top-color: #333;
+
+    a {
+      color: #6ba3d4;
+
+      &:hover {
+        color: #a5d3ff;
+      }
+    }
+  }
+
+  /* Buttons dark mode */
+  .btn {
+    background-color: #262626;
+    color: $dark-text-color;
+    border-color: #444;
+
+    &:hover {
+      background-color: #333;
+      color: #a5d3ff;
+    }
+  }
+
+  /* Search form dark mode */
+  .search__toggle {
+    color: $dark-text-color;
+
+    &:hover {
+      color: #a5d3ff;
+    }
+  }
+
+  input[type="search"],
+  input[type="text"],
+  textarea {
+    background-color: #262626;
+    color: $dark-text-color;
+    border-color: #444;
+
+    &:focus {
+      background-color: #333;
+      border-color: #6ba3d4;
     }
   }
 }

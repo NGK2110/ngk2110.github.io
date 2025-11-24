@@ -72,7 +72,8 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
   <div style="flex-grow: 1;">
     <h3 style="margin: 0; margin-bottom: 5px; color: #0066cc;"><a href="https://ai.sony/" style="text-decoration: none; color: #0066cc;">SONY AI</a></h3>
     <p style="margin: 0; font-size: 14px; line-height: 1.4;">Research Scientist Intern at SONY AI, MFM/Deep Generative Modeling Team (July. 2025 – Present)</p>
-    <p style="margin: 8px 0 0 0; font-size: 13px; line-height: 1.4;">Advisor: <a href="https://ai.sony/people/Naoki-Murata/" style="color: #0066cc;">Naoki Murata</a> and <a href="https://ai.sony/people/Yuhta-Takida/" style="color: #0066cc;">Yuhta Takida</a></p>
+    <p style="margin: 8px 0 0 0; font-size: 13px; line-height: 1.4;">Advisor: [Naoki Murata](https://ai.sony/people/Naoki-Murata/) and [Yuhta Takida](https://ai.sony/people/Yuhta-Takida/)
+    <!-- <p style="margin: 8px 0 0 0; font-size: 13px; line-height: 1.4;">Advisor: <a href="https://ai.sony/people/Naoki-Murata/" style="color: #0066cc;">Naoki Murata</a> and <a href="https://ai.sony/people/Yuhta-Takida/" style="color: #0066cc;">Yuhta Takida</a></p> -->
   </div>
 </div>
 
@@ -83,7 +84,7 @@ Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-B
   <div style="flex-grow: 1;">
     <h3 style="margin: 0; margin-bottom: 5px; color: #0066cc;"><a href="https://ai.iith.ac.in/index.html" style="text-decoration: none; color: #0066cc;">Indian Institute of Technology Hyderabad</a></h3>
     <p style="margin: 0; font-size: 14px; line-height: 1.4;">Master's (RA) student at IITH (Aug. 2023 – Present)</p>
-    <p style="margin: 8px 0 0 0; font-size: 13px; line-height: 1.4;">Advisor: <a href="https://krmopuri.github.io" style="color: #0066cc;">Dr. Konda Reddy Mopuri</a></p>
+    <p style="margin: 8px 0 0 0; font-size: 13px; line-height: 1.4;">Advisor: [Dr. Konda Reddy Mopuri](https://krmopuri.github.io)
   </div>
 </div>
 
