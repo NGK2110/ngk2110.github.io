@@ -104,19 +104,32 @@ html[data-theme="dark"] {
   .fa {
     background-color: #fff !important;
     color: #000 !important;
-    padding: 5px;
+    padding: 6px 8px !important;
     border-radius: 4px;
+    display: inline-block;
+    margin: 0 2px;
   }
 
   /* Social icons white background */
-  .author__urls a i,
-  .author__urls_sm a i,
+  .author__urls a,
+  .author__urls_sm a {
+    & i {
+      background-color: #fff !important;
+      color: #000 !important;
+      padding: 6px 8px !important;
+      border-radius: 4px;
+      display: inline-block;
+      margin-right: 5px;
+    }
+  }
+
   .social-icons i {
     background-color: #fff !important;
     color: #000 !important;
-    padding: 8px;
+    padding: 6px 8px !important;
     border-radius: 4px;
-    margin-right: 5px;
+    display: inline-block;
+    margin: 0 2px;
   }
 
   table {
