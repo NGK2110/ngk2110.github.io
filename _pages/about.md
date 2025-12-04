@@ -29,19 +29,17 @@ I like to play squash and football in my free time. Also a big fan of FC Barcelo
 - *2025.02*: Our work titled [Illusion Of Unlearning](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) paper accepted to **CVPR 2025, Nashville**.
 - *2024.06*: Awarded **Reliance Foundation Postgraduate Scholarship** <span style="color: red;">(Top 100 students nationwide)</span>
 
-<!-- # 📝 Pre-print -->
+# 📝 Pre-print
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/real_mm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DFR_Teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[P1] [Revisiting Learning-based Video Motion Magnification for Real-time Processing](https://arxiv.org/abs/2403.01898) *<span style="color: gray;">(under-review)</span>*
+[P1] [Distill, Forget, Repeat: A Framework for Continual Unlearning in Text-to-Image Diffusion Models](https://arxiv.org/abs/2512.02657) *<span style="color: gray;">(under-review)</span>*
 
-Hyunwoo Ha\*, **<U>Oh Hyun-Bin</U>\***, Kim Jun-Seong, Kwon Byung-Ki, Kim Sung-Bin, Linh-Tam Tran, Ji-Yun Kim, Sung-Ho Bae, Tae-Hyun Oh (*: equal contribution)
-
-**Project**
+**Naveen George**, Naoki Murata, Yuhta Takida, Konda Reddy Mopuri, Yuki Mitsufuji
 
 </div>
-</div> -->
+</div>
 
 # 📝 Publications 
 
