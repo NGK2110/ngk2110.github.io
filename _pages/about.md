@@ -19,7 +19,7 @@ redirect_from:
 
 I am a final-year Master's student in the [Department of Artificial Intelligence](https://ai.iith.ac.in/index.html), [Indian Institute of Technology Hyderabad](https://www.iith.ac.in), where I have the privilege of being supervised by [Dr. Konda Reddy Mopuri](https://krmopuri.github.io). I am currently a Research Scientist intern at [Sony AI, Tokyo](https://ai.sony/) in Deep Generative Modeling team, working with [Naoki Murata](https://ai.sony/people/Naoki-Murata/) and [Yuhta Takida](https://ai.sony/people/Yuhta-Takida/). 
 
-My research interests are in Deep Generative Models and Computer Vision, with a current focus on Machine Unlearning in Diffusion Models. I am fascinated by how these model learn, interpret and synthesize multimodal inputs such as images, videos and text, and how we can guide them toward safer, more explainable, and trustworthy behavior.
+My research interests are in Deep Generative Models and Computer Vision, with a current focus on Machine Unlearning in Diffusion Models. I am fascinated by how these model learn, interpret and synthesize multimodal inputs such as images, videos and text, and how we can guide them towards safer, more explainable, and trustworthy behavior.
 
 Outside research, I love playing squash and football, and I am a passionate supporter of FC Barcelona💙❤️.
 
@@ -47,7 +47,7 @@ Outside research, I love playing squash and football, and I am a passionate supp
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/TIU_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html)
+[C1] [The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in Text-to-Image Diffusion Models](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html)
 
 **Naveen George**, Karthik Nandan Dasaraju, Rutheesh Reddy Chittepu, Konda Reddy Mopuri
 
