@@ -19,9 +19,9 @@ redirect_from:
 
 I am a final-year Master's student in the [Department of Artificial Intelligence](https://ai.iith.ac.in/index.html), [Indian Institute of Technology Hyderabad](https://www.iith.ac.in), where I have the privilege of being supervised by [Dr. Konda Reddy Mopuri](https://krmopuri.github.io). I am currently a Research Scientist intern at [Sony AI, Tokyo](https://ai.sony/) in Deep Generative Modeling team, working with [Naoki Murata](https://ai.sony/people/Naoki-Murata/) and [Yuhta Takida](https://ai.sony/people/Yuhta-Takida/). 
 
-My research interests are in Deep Generative Models and Computer Vision, with a current focus on Machine Unlearning in Diffusion Models.
+My research interests are in Deep Generative Models and Computer Vision, with a current focus on Machine Unlearning in Diffusion Models. I am fascinated by how these model learn, interpret and synthesize multimodal inputs such as images, videos and text, and how we can guide them toward safer, more explainable, and trustworthy behavior.
 
-I like to play squash and football in my free time. Also a big fan of FC Barcelona💙❤️.
+Outside research, I love playing squash and football, and I am a passionate supporter of FC Barcelona💙❤️.
 
 # 🔥 News
 - *2025.12*: [CVPR work](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) selected for Vision India, ICVGIP 2025.
@@ -38,6 +38,7 @@ I like to play squash and football in my free time. Also a big fan of FC Barcelo
 
 **Naveen George**, Naoki Murata, Yuhta Takida, Konda Reddy Mopuri, Yuki Mitsufuji
 
+[Paper](https://arxiv.org/abs/2512.02657) | [Code](https://github.com/SonyResearch/DFR-ConUnl)
 </div>
 </div>
 
