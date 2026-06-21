@@ -36,7 +36,7 @@ Outside research, I love playing squash, badminton and football, and I am a pass
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DFR_Teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[P1] [Distill, Forget, Repeat: A Framework for Continual Unlearning in Text-to-Image Diffusion Models](https://arxiv.org/abs/2512.02657) *<span style="color: gray;">(under-review)</span>*
+[P1] [](https://arxiv.org/abs/2512.02657) *<span style="color: gray;">(under-review)</span>*
 
 **Naveen George**, Naoki Murata, Yuhta Takida, Konda Reddy Mopuri, Yuki Mitsufuji
 
@@ -70,10 +70,10 @@ Outside research, I love playing squash, badminton and football, and I am a pass
 
 
 # 🎖 Honors and Awards
+- Research Excellence Award, IIT Hyderabad
 - [CVPR work](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) selected for Vision India, ICVGIP 2025
 - CVPR 2025 Travel Grant Award
 - Reliance Foundation Postgraduate Scholarship
-- Secured Top 500 in GATE DA
 
 # 💻 Research Experience
 
@@ -83,7 +83,7 @@ Outside research, I love playing squash, badminton and football, and I am a pass
   </div>
   <div style="flex-grow: 1;">
     <h3 style="margin: 0; margin-bottom: 5px;"><a href="https://ai.sony/" style="text-decoration: none;">SONY AI</a></h3>
-    <p style="margin: 0; font-size: 14px; line-height: 1.4;">Research Scientist Intern at SONY AI, MFM/Deep Generative Modeling Team (July. 2025 – Present)</p>
+    <p style="margin: 0; font-size: 14px; line-height: 1.4;">Research Scientist Intern at SONY AI, MFM/Deep Generative Modeling Team (July. 2025 – May. 2026)</p>
     <!-- <p style="margin: 8px 0 0 0; font-size: 13px; line-height: 1.4;">Advisor: [Naoki Murata](https://ai.sony/people/Naoki-Murata/) and [Yuhta Takida](https://ai.sony/people/Yuhta-Takida/)</p> -->
     <p style="margin: 8px 0 0 0; font-size: 13px; line-height: 1.4;">Advisor: <a href="https://ai.sony/people/Naoki-Murata/">Naoki Murata</a> and <a href="https://ai.sony/people/Yuhta-Takida/">Yuhta Takida</a></p>
   </div>
