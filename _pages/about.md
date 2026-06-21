@@ -24,7 +24,7 @@ My research interests are in Deep Generative Models and Computer Vision, with a 
 Outside research, I love playing squash, badminton and football, and I am a passionate supporter of FC Barcelona💙❤️.
 
 # 🔥 News
-- *2025.06*: Our work titled [Locality-Aware Continual Unlearning for Diffusion Models](https://arxiv.org/abs/2512.02657) paper accepted to **ECCV 2026, Sweden**.
+- *2026.06*: Our work titled [Locality-Aware Continual Unlearning for Diffusion Models](https://arxiv.org/abs/2512.02657) paper accepted to **ECCV 2026, Sweden**.
 - *2026.04*: Awarded **Research Excellence** Award from IIT Hyderabad.
 - *2025.12*: [CVPR work](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) selected for Vision India, ICVGIP 2025.
 - *2025.07*: I'll start a **Research Scientist Internship** at [Sony AI](https://ai.sony/), Tokyo.
