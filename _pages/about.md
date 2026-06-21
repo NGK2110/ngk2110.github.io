@@ -17,19 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Master's student in the [Department of Artificial Intelligence](https://ai.iith.ac.in/index.html), [Indian Institute of Technology Hyderabad](https://www.iith.ac.in), where I have the privilege of being supervised by [Dr. Konda Reddy Mopuri](https://krmopuri.github.io). I am currently a Research Scientist intern at [Sony AI, Tokyo](https://ai.sony/) in Deep Generative Modeling team, working with [Naoki Murata](https://ai.sony/people/Naoki-Murata/) and [Yuhta Takida](https://ai.sony/people/Yuhta-Takida/). 
+I am a final-year Master's student in the [Department of Artificial Intelligence](https://ai.iith.ac.in/index.html), [Indian Institute of Technology Hyderabad](https://www.iith.ac.in), where I have the privilege of being supervised by [Dr. Konda Reddy Mopuri](https://krmopuri.github.io). I was as a Research Scientist intern at [Sony AI, Tokyo](https://ai.sony/) in Deep Generative Modeling team, working with [Naoki Murata](https://ai.sony/people/Naoki-Murata/) and [Yuhta Takida](https://ai.sony/people/Yuhta-Takida/).
 
 My research interests are in Deep Generative Models and Computer Vision, with a current focus on Machine Unlearning in Diffusion Models. I am fascinated by how these model learn, interpret and synthesize multimodal inputs such as images, videos and text, and how we can guide them towards safer, more explainable, and trustworthy behavior.
 
-Outside research, I love playing squash and football, and I am a passionate supporter of FC Barcelona💙❤️.
+Outside research, I love playing squash, badminton and football, and I am a passionate supporter of FC Barcelona💙❤️.
 
 # 🔥 News
+- *2025.06*: Our work titled [Locality-Aware Continual Unlearning for Diffusion Models](https://arxiv.org/abs/2512.02657) paper accepted to **ECCV 2026, Sweden**.
+- *2026.04*: Awarded **Research Excellence** Award from IIT Hyderabad.
 - *2025.12*: [CVPR work](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) selected for Vision India, ICVGIP 2025.
-- *2025.07*: I'll start a Research Scientist Internship at [Sony AI](https://ai.sony/), Tokyo.
+- *2025.07*: I'll start a **Research Scientist Internship** at [Sony AI](https://ai.sony/), Tokyo.
 - *2025.02*: Our work titled [Illusion Of Unlearning](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) paper accepted to **CVPR 2025, Nashville**.
 - *2024.06*: Awarded **Reliance Foundation Postgraduate Scholarship** <span style="color: red;">(Top 100 students nationwide)</span>
 
-# 📝 Pre-print
+<!-- # 📝 Pre-print
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DFR_Teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,9 +42,20 @@ Outside research, I love playing squash and football, and I am a passionate supp
 
 [Paper](https://arxiv.org/abs/2512.02657) | [Code](https://github.com/SonyResearch/DFR-ConUnl)
 </div>
-</div>
+</div> -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/DFR_Teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[C2] [Locality-Aware Continual Unlearning for Diffusion Models](https://arxiv.org/abs/2512.02657) *<span style="color: gray;">(under-review)</span>*
+
+**Naveen George**, Naoki Murata, Yuhta Takida, Konda Reddy Mopuri, Yuki Mitsufuji
+
+[Paper](https://arxiv.org/abs/2512.02657) | [Code](https://github.com/SonyResearch/DFR-ConUnl)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/TIU_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
