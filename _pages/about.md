@@ -102,7 +102,7 @@ Outside research, I love playing squash, badminton and football, and I am a pass
 </div>
 
 # 📋 Academic Service
-- Conference Reviewer: CVPR'26, ICML'25 ([MUGen](https://mugenworkshop.github.io)), ICVGIP'25
+- Conference Reviewer: ICML'25 ([MUGen](https://mugenworkshop.github.io)), ICVGIP'25
 - Journal Reviewer: TIP
 
 # 👨🏻‍🏫 Teaching Experience
