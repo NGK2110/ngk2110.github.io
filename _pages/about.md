@@ -33,27 +33,27 @@ Outside research, I love playing squash, badminton and football, and I am a pass
 
 <!-- # 📝 Pre-print
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DFR_Teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TILDE_Teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[P1] [](https://arxiv.org/abs/2512.02657) *<span style="color: gray;">(under-review)</span>*
+[P1] [TILDE: TILt-based Distributional Erasure for Concept Unlearning]() *<span style="color: gray;">(under-review)</span>*
 
 **Naveen George**, Naoki Murata, Yuhta Takida, Konda Reddy Mopuri, Yuki Mitsufuji
 
-[Paper](https://arxiv.org/abs/2512.02657) | [Code](https://github.com/SonyResearch/DFR-ConUnl)
+[Paper]() | [Code](https://github.com/SonyResearch/TILDE)
 </div>
 </div> -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/DFR_Teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/LACU_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [C2] [Locality-Aware Continual Unlearning for Diffusion Models](https://arxiv.org/abs/2512.02657)
 
 **Naveen George**, Naoki Murata, Yuhta Takida, Konda Reddy Mopuri, Yuki Mitsufuji
 
-[Paper](https://arxiv.org/abs/2512.02657) | [Code](https://github.com/SonyResearch/DFR-ConUnl)
+[Paper](https://arxiv.org/abs/2512.02657) | [Code](https://github.com/SonyResearch/LACU)
 </div>
 </div>
 
