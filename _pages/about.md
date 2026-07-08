@@ -31,18 +31,18 @@ Outside research, I love playing squash, badminton and football, and I am a pass
 - *2025.02*: Our work titled [Illusion Of Unlearning](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) paper accepted to **CVPR 2025, Nashville**.
 - *2024.06*: Awarded **Reliance Foundation Postgraduate Scholarship** <span style="color: red;">(Top 100 students nationwide)</span>
 
-<!-- # 📝 Pre-print
+# 📝 Pre-print
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TILDE_Teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TILDE_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [P1] [TILDE: TILt-based Distributional Erasure for Concept Unlearning]() *<span style="color: gray;">(under-review)</span>*
 
 **Naveen George**, Naoki Murata, Yuhta Takida, Konda Reddy Mopuri, Yuki Mitsufuji
 
-[Paper]() | [Code](https://github.com/SonyResearch/TILDE)
+[Paper](https://arxiv.org/abs/2607.06432)
 </div>
-</div> -->
+</div>
 
 # 📝 Publications 
 
